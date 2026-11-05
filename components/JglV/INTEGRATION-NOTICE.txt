@@ -1,0 +1,5 @@
+Embedded client: JGLCUSTOMS 1.0.39. Copyright 2026 JGLCUSTOMS.
+Original branding, interface, and encrypted provider resource retained.
+Integration changes: isolated component/assets/registry/tmp paths; lazy lifecycle; host Back/dialog bridge.
+This client depends on its original remote provider and normal activation.
+No catalog availability or content-rights grant is implied by this package.

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<component name="JglVProbeTask" extends="Task"><interface><field id="generation" type="integer" /><field id="attempt" type="integer" /><field id="urls" type="array" /><field id="headers" type="assocarray" /><field id="okUrl" type="string" alwaysNotify="true" /><function name="shutdown" /></interface><script type="text/brightscript" uri="pkg:/components/JglV/JglVRuntime.brs" /><script type="text/brightscript" uri="pkg:/components/JglV/Tasks/7be14.brs" /></component>

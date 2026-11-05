@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<component name="JglVXuperTask" extends="Task"><interface><field id="generation" type="integer" /><field id="url" type="string" /><field id="headers" type="assocarray" /><field id="body" type="string" /><field id="rawResp" type="string" alwaysNotify="true" /><field id="error" type="string" alwaysNotify="true" /><function name="shutdown" /></interface><script type="text/brightscript" uri="pkg:/components/JglV/JglVRuntime.brs" /><script type="text/brightscript" uri="pkg:/components/JglV/Tasks/9c751.brs" /></component>

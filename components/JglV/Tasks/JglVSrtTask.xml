@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<component name="JglVSrtTask" extends="Task"><interface><field id="url" type="string" /><field id="cues" type="array" /><function name="shutdown" /></interface><script type="text/brightscript" uri="pkg:/components/JglV/JglVRuntime.brs" /><script type="text/brightscript" uri="pkg:/components/JglV/Tasks/8f036.brs" /></component>
